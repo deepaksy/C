@@ -10,7 +10,7 @@
 ## History of  C programming language: 
 ----------------------------------------------------
 
-### History of C is very interesting to know:
+** History of C is very interesting to know:**
 
 * C programming language was developed by Dennis Ritchie at Bell laboratories of AT&T in USA.
 
@@ -20,7 +20,7 @@
 
 * C inherits many feature of its predecessors languages such as B and BPCL.
 
-### Below is the table of some of the programming language developed before C
+** Below is the table of some of the programming language developed before C**
 
 |**Languages** | **Year** | **Developed By**           |
 |--------------|----------|----------------------------|
