@@ -33,3 +33,31 @@
 |ANSI/ISO C    | 1990     | ISO Committee              |
 |C99           | 1999     | Standardization Committee  |
 
+
+
+
+## Features of C programming :
+--------------------------------
+
+__**There are 10 important features of C programming languages**__
+
+1. Simple
+
+2. Portable(*Machine independent*)
+
+3. Mid-level programming lanugage
+
+4. Structured programming lanugage
+
+5. Rich library
+
+6. Memory Management
+
+7. Fast Speed
+
+8. Pointers
+
+9. Recursion
+
+10. Extensible
+ 
