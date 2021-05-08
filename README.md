@@ -92,11 +92,19 @@ __**There are 10 important features of C programming languages**__
   *The compilation and execution time of C language is fast since there are lesser inbuilt functions and hence the lesser overhead.*
 
  **8. Pointers**
+ -----------------------------
 
   *C provides the feature of pointers. We can directly interact with the memory by using the pointers. We can use pointers for memory, structures, functions, array, etc.*
-----------------------------------------------------------------------------------------------
- **9. Recursion**
 
+ **9. Recursion**
+ ----------------------------------
+ *In C, we can call the function within the function. It provides code reusability for every function. Recursion enables us to use the approach of backtracking.*
+
+ **10. Extensible**
+ ------------------------------
+  *C programs are extensible because we can implement new features in it.*
+  
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Basic C program
 
 
@@ -108,3 +116,37 @@ __**There are 10 important features of C programming languages**__
     }
 
 ```
+**Explanation of the above program**
+
+- **```#include<stdio.h>```** *It is a header file that is needed to use the standard input-output library function.* **ex:** ```printf();``` function is defined in **stdio.h**. 
+- **```int main();```:** *It is the entry point of every program. Every C program will begin from main() function.*
+- **```printf();```:** *It print the data specified in between the **()** to the console.*
+- **```return 0;```:** *The return 0 statement, returns execution status to the OS. The 0 value is used for successful execution and 1 for unsuccessful execution.*
+
+
+      **Note :** **';'** *is used as a statement terminator. Every statement in C program ends with semicolon. Otherwise you will get a compile time error.* 
+   
+## How to compile and run c programs?
+
+1. **Using an IDE**
+2. **Using Commandline(Windows)/Terminal(linux or macos)**
+
+**Using an IDE**:
+    *You can either install an IDE which you can edit your C programs and run programs easily.*
+    
+   _**Below given some of the most used ide for C programming**_
+   - [DevC++](https://sourceforge.net/projects/orwelldevcpp/)
+   - [Codeblock](https://www.codeblocks.org/)
+   - [visual studio code](https://code.visualstudio.com/download) (*setting up vscode for C++ programs might be tricky*)
+
+**Using Commandline(Windows)/Terminal(linux or macos)**
+   
+   ```console
+           gcc file_name.c -o file_name_to_be_saved
+   ```
+   **example:** *you wrote a program and saved as file name "hello.c" and you want to execute the file. you can compile "hello.c" to any name you want. here we will make output file name as "greet"*
+   
+   ```console 
+          gcc hello.c -0 greet
+          
+   ```
