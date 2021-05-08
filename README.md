@@ -60,4 +60,51 @@ __**There are 10 important features of C programming languages**__
 9. Recursion
 
 10. Extensible
- 
+
+ - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
+
+ **1. Simple**
+ -----------------
+  *C language is simple as it has easy to learn syntax, C programs can be structured(Can breaks into parts{function}),limited keywords.*
+
+ **2. Machine independent**
+ ---------------------------
+  *Unlike Assembly language, C program can be run in different machines. with some specific changes in code, C program can be run in 32-bit and 64-bit or ARM-based machine.* 
+
+ **3. Midlevel programming language**
+ -------------------------------------
+  *Although C language has many low-level programming features like Dynamic-memory-managment{Allocates memory in runtime(You'll be studying this in more detail later.)}, It supports feauters of high-level programming like arrays,structures,unions,etc*
+
+ **4. Structured programming language**
+ ----------------------------------------
+  *C is a structured programming language in the sense that we can break the program into parts using functions. So, it is easy to understand and modify. Functions also provide code reusability.*
+
+ **5. Rich library**
+ ---------------------
+  *C language provides rich in-built functions that makes programming fast and effective.*
+
+ **6. Memory Management**
+ --------------------------
+  *It supports the feature of dynamic memory allocation. In C language, we can free the allocated memory at any time by calling the free() function.*
+
+ **7. Fast speed**
+ ------------------- 
+  *The compilation and execution time of C language is fast since there are lesser inbuilt functions and hence the lesser overhead.*
+
+ **8. Pointers**
+
+  *C provides the feature of pointers. We can directly interact with the memory by using the pointers. We can use pointers for memory, structures, functions, array, etc.*
+----------------------------------------------------------------------------------------------
+ **9. Recursion**
+
+## Basic C program
+
+
+```C
+    #include<stdio.h> //Header file
+    /*Program starts with main()*/
+    int main(){
+        printf("Hello world"); //Prints value given in ()
+    }
+
+```
