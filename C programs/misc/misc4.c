@@ -2,7 +2,9 @@
 
 int main(){
     char *p=0;
-
-    *p='A';
-    printf("Value at p=%c\n",*p);
+    char ch='A';
+    p=&ch;
+    printf("Value at *p= %c\n",*p);
+    printf("Value at p= %d\n",p);
+    printf("Value at &p= %d\n",&p);
 }
