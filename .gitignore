@@ -3,3 +3,5 @@ C programs/output/
 *.exe
 
 *.out
+
+.vscode/*
