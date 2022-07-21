@@ -1,6 +1,6 @@
 # C programming:-
 ------
-
+[Data Structure using c](/data%20structures/Data%20Structure.md)
 - C language is one of the most popular and most used compiled high-level programming language.
 
 - C programming language was developed by Dennis Ritchie in year 1972 in Bell laboratory for creating system application that directly interacts with the hardware such as kernels, drivers etc.
