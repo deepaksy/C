@@ -7,9 +7,27 @@
    - [Advantages](#advantage-of-using-arrays)
 # **Data Structure** 
 
-A data structure is an art of organizing and maintaining data so that it can be meaningful, easy to retrive, manage.
+    A data structure is an art of organizing and maintaining data so that it can be meaningful, easy to retrive, manage.
+
+## **Types of Data Structures:**
+
+- **Primitive Data Structure:** 
+    The primitive data structure are primitive data types. The int, char, float, double and a pointer are primitive data structure that can hold a single value.
+
+- **Non-primitive Data Structure:**
+    The non-primitive data structure are divided into two types: -
+    1. Linear Data Structure: 
+        The arrangement of data in a sequential manner is known as linear data structure. Those are **Arrays, Linked list, Stacks, and Queues.** 
+    2. Non-linear Data Structure
 
 
+## Major Operations in Data Structures: 
+
+- **Searching:** We can search for any element in a data structure.
+- **Sorting:** We can sort the elements of a data structure either in ascending order or descending order.
+- **Insertion:** We can also insert the new element in  a data structure.
+- **Updation:** We can also update the element, i.e. We can replace the element with another element.
+- **Deletion:** We can also perform the delete operation to remove the element  from the data structure.
 
 # **Arrays**
 
