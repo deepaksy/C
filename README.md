@@ -1,6 +1,6 @@
 # C programming:-
 ------
-
+[Data Structure using c](/data%20structures/Data%20Structure.md)
 - C language is one of the most popular and most used compiled high-level programming language.
 
 - C programming language was developed by Dennis Ritchie in year 1972 in Bell laboratory for creating system application that directly interacts with the hardware such as kernels, drivers etc.
@@ -124,7 +124,7 @@ __**There are 10 important features of C programming languages**__
 - **```return 0;```:** *The return 0 statement, returns execution status to the OS. The 0 value is used for successful execution and 1 for unsuccessful execution.*
 
 
-      **Note :** **';'** *is used as a statement terminator. Every statement in C program ends with semicolon. Otherwise you will get a compile time error.* 
+      Note : ";" *is used as a statement terminator. Every statement in C program ends with semicolon. Otherwise you will get a compile time error.* 
    
 ## How to compile and run c programs?
 
