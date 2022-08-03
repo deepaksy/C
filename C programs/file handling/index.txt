@@ -1,0 +1,30 @@
+Basic Datatypes available in C programs.
+	 
+	 BASIC TYPES:
+	 -------------
+	 
+	 1. Integers
+	 2. Floating point 
+	 
+	 ENUMERATED TYPES:
+	 -----------------
+	 
+	 They are again arithmetic types and they are used to defined
+	 variable that can only assign certain discrete integer values throughout
+	 the program.
+	 
+	 VOID TYPE:
+	 -----------
+	 
+	 The type specifier void indicates that no value is available.
+	 
+	 DERIVED TYPES:
+	 ---------------
+	 
+	 Derived type includes:
+	 
+	 1. Pointer types
+	 2. Array types
+	 3. Structure types
+	 4. Union types
+	 5. Function types
