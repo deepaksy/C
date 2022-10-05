@@ -1,22 +1,29 @@
 # C programming:-
 ------
-[Data Structure using c](/data%20structures/Data%20Structure.md)
+    C is a genenral-purpose procedural-oriented programming language developed by Dennis M. Ritchie in year 1972.
+
 - C language is one of the most popular and most used compiled high-level programming language.
 
-- C programming language was developed by Dennis Ritchie in year 1972 in Bell laboratory for creating system application that directly interacts with the hardware such as kernels, drivers etc.
+- Dennis Ritchie Developed C in the Bell laboratory for creating system application that directly interacts with the hardware such as kernels, drivers etc.
 
+## Why learn C programming langugage?
 
+- Easy to learn
+- Structured language
+- Efficient programs
+- Low level memory management
+- Compiled in multiple platform
 
 ## History of  C programming language: 
 ----------------------------------------------------
 
 **History of C is very interesting to know:**
 
-* C programming language was developed by Dennis Ritchie at Bell laboratories of AT&T in USA.
+- C programming language was developed by Dennis Ritchie at Bell laboratories of AT&T in USA.
 
-* It was developed to overcome the problem of the old lanugages as B, BPCL,etc.
+- It was developed to overcome the problem of the old lanugages as B, BPCL,etc.
 
-* Initially C was develop to be used in Unix operating system.
+- Initially C was develop to be used in Unix operating system.
 
 * C inherits many feature of its predecessors languages such as B and BPCL.
 
@@ -150,3 +157,73 @@ __**There are 10 important features of C programming languages**__
           gcc hello.c -0 greet
           
    ```
+
+# ***Keywords in C***
+
+|    keywords     |          Description        |
+|-----------------|-----------------------------|
+| auto | a default Storage class in C |
+| else | a block of code execute when if condition fails|
+| long | a datatype stores 8bytes ie. 2<sup>(8-1)</sup> bit of integer range |
+| switch | a conditional statement pairs with case |
+| break | exits from the loops |
+| enum  | a user defined set of data types in c |
+| register | a storage class in c that stores value in register |
+| typedef | to define(name) a custom type|
+| case  | pairs with switch |
+| float | a datatype to store floating-type numbers |
+| short | a dattype to store small values |
+| unsigned | to eliminate signed values |
+| const | declares a constant value |
+| for   | defines a loop |
+| signed | declares a signed value |
+| void  | void is a data type that returns nothing. |
+| continue | skips a condition in a loop|
+| goto  | jumps to a specified location |
+| sizeof | returns the size |
+| volatile | data type? |
+| default | paired with switch-case value |
+| if    | executes code if condition matches |
+| static | preserve value in multiple runs |
+| while | runs the code until the conditions fulfilled |
+| do    | paired with do-while |
+| int   | declares an integer of size 4 bytes |
+| char  | declares a character value of size 1 byte |
+| struct | declares a structure datatype | 
+| double | declares a double data type of floating-point number with double precision of size 8 bytes |
+| _Packed | used with union to elimiated padding in structure |
+
+# Data types in C: -
+
+There are following data types in C : -
+
+1. Basic Data types: -
+    - Integer types
+    - Floating-point types
+2. Enumerated types: -
+    They are  arithmetic types and used to define certain data types
+3. Void type: - It is a type that has no value.
+4. Derived data types: -
+    - Pointer
+    - Array
+    - Structure
+    - Union
+    - Function
+
+## Integer types: -
+
+| S.NO | Type   | Storage Size  | value range |
+| 1| char | 1 byte | -128 to 127|
+| 2 | unsigned char | 1 byte | 0 to 255 |
+| 3 | signed char | 1 byte | -128 to 127 |
+| 4 | int | 4 bytes | -2147483648 to 2147483647 |
+| 5 | unsigned int | 4 bytes | 0 to 65535 |
+| 6 | short | 2 bytes | -32768 to 32767 |
+| 7 | unsigned short | 2 bytes | 0 to 65535 |
+| 8 | long | 8 bytes | -9223372036854775808 to 9223372036854775807 |
+| 9 | unsigned long | 8 bytes | 0 to 18446744073709551615 |
+
+
+
+# References: -
+[Data Structure using c](/data%20structures/Data%20Structure.md)
