@@ -213,6 +213,7 @@ There are following data types in C : -
 ## Integer types: -
 
 | S.NO | Type   | Storage Size  | value range |
+|------|--------|---------------|-------------|
 | 1| char | 1 byte | -128 to 127|
 | 2 | unsigned char | 1 byte | 0 to 255 |
 | 3 | signed char | 1 byte | -128 to 127 |
